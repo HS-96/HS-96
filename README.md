@@ -1,6 +1,6 @@
 - Hi, I’m ENG.Hosam Alghamdi
 -  I’m interested in electronics , AI & modern technology 
--  I'm currently working as control systems engineer at MTTS Company in BMS Department 
+-  I'm currently working as control systems engineer at MTTS Company at BMS Department 
 - I’m looking to collaborate on electronics & IOT, AI projects 
 -  If you like to reach me : H0salghamdi@gmail.com
 
